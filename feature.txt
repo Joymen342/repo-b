@@ -1,1 +1,3 @@
 New feature added
+Change in new branch
+Change in new-feature branch
